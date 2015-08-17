@@ -12,13 +12,13 @@ abide:ABIDE_FSIQ a prov:Entity ;
     abide:form "WASI" ;
     abide:term "ABIDE_FIQ" ;
     prov:definition "FIQ Standard Score" ;
-    prov:label "ABIDE vocabulary term" .
+    prov:label "ABIDE Vocabulary Term" .
 
 abide:ABIDE_PIQ a prov:Entity ;
     abide:form "WASI" ;
     abide:term "ABIDE_PIQ" ;
     prov:definition "PIQ Standard Score" ;
-    prov:label "ABIDE vocabulary term" .
+    prov:label "ABIDE Vocabulary Term" .
 
 abide:ABIDE_VIQ a prov:Entity ;
     abide:form "WASI" ;
